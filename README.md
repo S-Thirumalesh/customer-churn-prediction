@@ -68,3 +68,5 @@ customer-churn-prediction/
 
 ## Author
 Thirumalesh — [GitHub](https://github.com/S-Thirumalesh)
+📧 Email: thirumalesh9360@gmail.com
+🌐 LinkedIn: https://www.linkedin.com/in/s-thirumalesh/
